@@ -39,8 +39,3 @@ The script builds two levels of diagnostic charts for each variable pair using `
 - **Language:** Python
 - **Data Manipulation:** `pandas`
 - **Data Visualization:** `matplotlib`, `seaborn`
-
-## ⚙️ How to Run the Notebook
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
